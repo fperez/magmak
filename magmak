@@ -1,0 +1,3 @@
+#!/bin/bash
+
+./jupymagmak.py --IPKernelApp.connection_file=magmak.json

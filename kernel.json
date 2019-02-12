@@ -1,0 +1,3 @@
+{"argv":["python","-m","jupymagmak", "-f", "{connection_file}"],
+ "display_name":"Magma"
+}
